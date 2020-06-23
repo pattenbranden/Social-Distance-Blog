@@ -30,8 +30,7 @@ A step by step series of examples that tell you how to get a development env run
 * Navigate to the directory you cloned the repository to via your command terminal using 'cd'.
 * Install the packages using 'npm install'.
 * Start the application with 'npm start'.
-
-You should have a browser window open with the locally run application.
+* Navigate your browser to localhost:3000
 
 ## Built With
 * [Node](Nodejs.org) - The Javascript enviornment used for development of this application.
