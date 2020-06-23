@@ -45,7 +45,7 @@ You should have a browser window open with the locally run application.
 
 * **Alan Ford** - *Back-end & Lead design* - [AlanFord9](https://github.com/AlanFord9)
 * **Jeff Gunderson** - *API integration* - [jgunderson819](https://github.com/jgunderson819)
-* **Branden Patten** - *Front-end* - [PattenBranden](https://github.com/pattenbranden)
-* **Roger Rodriguez** - *Proffessional Full-stack Consultation* [Landmammal](https://github.com/landmammal)
+* **Branden Patten** - *Front-end design* - [PattenBranden](https://github.com/pattenbranden)
+* **Roger Rodriguez** - *Proffessional Full-stack instructor* - [Landmammal](https://github.com/landmammal)
 
 See also the list of [contributors](https://github.com/pattenbranden/project-2/graphs/contributors) who participated in this project.
